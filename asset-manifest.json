@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/itcity/static/css/main.6a8db21f.css",
+    "main.js": "/itcity/static/js/main.6286d38f.js",
+    "static/js/787.f0875098.chunk.js": "/itcity/static/js/787.f0875098.chunk.js",
+    "static/media/travelbagslap.jpg": "/itcity/static/media/travelbagslap.950590ca07d92a909a17.jpg",
+    "static/media/perfumeandwatcheslap.jpg": "/itcity/static/media/perfumeandwatcheslap.c61e4bd140cea857cf12.jpg",
+    "static/media/accessories.jpg": "/itcity/static/media/accessories.2f319ef8c0bb8270658a.jpg",
+    "static/media/camerlap.jpg": "/itcity/static/media/camerlap.41a11c38cc2b342a763b.jpg",
+    "static/media/homelap.jpg": "/itcity/static/media/homelap.a6d32d6e12fdbd38bfe5.jpg",
+    "static/media/tabletslap.jpg": "/itcity/static/media/tabletslap.9849bd1c9a9ea0631a1e.jpg",
+    "static/media/offerlap.jpg": "/itcity/static/media/offerlap.cff8df72fcc5c0cadc62.jpg",
+    "static/media/gamehome.jpg": "/itcity/static/media/gamehome.f4af0a2321b26962e5e9.jpg",
+    "static/media/mobilelap.jpg": "/itcity/static/media/mobilelap.5874dbb79d7146c35f5c.jpg",
+    "static/media/computerlap.jpg": "/itcity/static/media/computerlap.2752801d571acaf2909c.jpg",
+    "static/media/offer.png": "/itcity/static/media/offer.7b9bd1773ea64ffec5b9.png",
+    "static/media/watch.png": "/itcity/static/media/watch.d88e676c45e6efd72f10.png",
+    "static/media/travel.png": "/itcity/static/media/travel.e31ce0752ca86ba03446.png",
+    "static/media/accessories.png": "/itcity/static/media/accessories.df5c0c5c504e0b80c2ec.png",
+    "static/media/personal.png": "/itcity/static/media/personal.e4ce1a1b7b28e676c24e.png",
+    "static/media/home.png": "/itcity/static/media/home.bb071e5f416adcc71327.png",
+    "static/media/camera.png": "/itcity/static/media/camera.84b8c48986c0653d0302.png",
+    "static/media/computers.png": "/itcity/static/media/computers.9214aa7c8ed727dcf1ab.png",
+    "static/media/slick.svg": "/itcity/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/itcity/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/itcity/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/itcity/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/itcity/index.html",
+    "main.6a8db21f.css.map": "/itcity/static/css/main.6a8db21f.css.map",
+    "main.6286d38f.js.map": "/itcity/static/js/main.6286d38f.js.map",
+    "787.f0875098.chunk.js.map": "/itcity/static/js/787.f0875098.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a8db21f.css",
+    "static/js/main.6286d38f.js"
+  ]
+}
